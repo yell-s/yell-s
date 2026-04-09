@@ -56,4 +56,4 @@ $ sudo apt install wolf-code
 Wolf code already installed (*-*)
 ```
 
-<p align="center"> <a href="https://github.com/yell-s"><img src="https://img.shields.io/badge/GitHub-DuskSlavo-2d333b?style=for-the-badge&logo=github"/></a> </p><p align="center"> <img src="https://komarev.com/ghpvc/?username=DuskSlavo&style=flat-square&label=Terminal+views&color=5d6d7e"/> </p><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1e1e2f,100:2b2d42&section=footer"/>
+<p align="center"> <a href="https://github.com/yell-s"><img src="https://img.shields.io/badge/GitHub-DuskSlavo-2d333b?style=for-the-badge&logo=github"/></a> </p><p align="center">
