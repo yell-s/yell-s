@@ -17,7 +17,7 @@
 ```bash
 > neofetch 
 ```
-<a href="#"><img align="left" src="https://i.imgur.com/CqJYuAY.jpeg" width="171"/></a>
+<a href="#"><img align="left" src="https://i.pinimg.com/736x/82/f6/41/82f641a8c557e93db9058048c7d89f0b.jpg" width="171"/></a>
 
 ```lua
 duskslavo@github
@@ -32,7 +32,7 @@ Languages:    Portuguese (native), English (technical)
 Hobbies:      Code, Read
 ```
 
-### 🐺 Currently working on
+###  Currently working on
 ```json
 {
   "focus": "Backend with Java + Spring Boot",
@@ -43,7 +43,7 @@ Hobbies:      Code, Read
 
 <br><br><br>
 
-### 🖥️ Terminal
+###  Terminal
 
 ```
 $ duskslavo
